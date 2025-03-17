@@ -1,8 +1,10 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy IvanMY.  
 
-🎮 **Diseñador de videojuegos** | 💻 Aprendiendo desarrollo web | 🚀 Explorando blockchain y Jekyll  
+🎮 **Diseñador de videojuegos** | 💻 Retomando el desarrollo web | 🚀 Explorando blockchain y Jekyll  
 
-Soy un desarrollador apasionado por la creación de videojuegos, con experiencia en **Unity, Godot y Construct3**. Actualmente estoy expandiendo mis conocimientos en **Next.js, Firebase y GitHub** mientras trabajo en la plataforma **Permutis**, un proyecto de intercambio basado en **blockchain de Cardano**.  
+Soy un desarrollador apasionado por la creación de videojuegos, con experiencia en **Unity, Godot y Construct3**. 
+
+Actualmente estoy expandiendo mis conocimientos en **Next.js, Firebase y GitHub** mientras trabajo en la plataforma **Permutis**, un proyecto de intercambio basado en **blockchain de Cardano**.  
 
 También estoy involucrado en el desarrollo de **TecniGo**, una app para conectar personas con trabajadores de oficios.  
 
@@ -16,7 +18,7 @@ También estoy involucrado en el desarrollo de **TecniGo**, una app para conecta
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godot-engine&logoColor=white)  
 ![Construct3](https://img.shields.io/badge/Construct3-%23FF7F50.svg?style=flat&logo=construct3&logoColor=white)  
 
-### **🌐 Desarrollo Web** *(aprendiendo 🚀)*  
+### **🌐 Desarrollo Web** *(retomando)*  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)  
 ![Jekyll](https://img.shields.io/badge/Jekyll-%23CC0000.svg?style=flat&logo=jekyll&logoColor=white)  
