@@ -9,6 +9,13 @@ Actualmente estoy expandiendo mis conocimientos en **Next.js, Firebase y GitHub*
 También estoy involucrado en el desarrollo de **TecniGo**, una app para conectar personas con trabajadores de oficios.  
 
 ---
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&lines=if(experience+%3C+maxLevel)+{+LearnMore();+};void+Update()+{+LearnEveryDay();+}" alt="Typing SVG"/>
+</a>
+</p>
+
+
 
 ## 🚀 Tecnologías y herramientas  
 
