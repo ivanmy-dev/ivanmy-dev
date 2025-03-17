@@ -1,19 +1,19 @@
-# 👋 ¡Hola! Soy IvanMY.  
-
-🎮 **Diseñador de videojuegos** | 💻 Retomando el desarrollo web | 🚀 Explorando blockchain y Jekyll  
-
-Soy un desarrollador apasionado por la creación de videojuegos, con experiencia en **Unity, Godot y Construct3**. 
-
-Actualmente estoy expandiendo mis conocimientos en **Next.js, Firebase y GitHub** mientras trabajo en la plataforma **Permutis**, un proyecto de intercambio basado en **blockchain de Cardano**.  
-
-También estoy involucrado en el desarrollo de **TecniGo**, una app para conectar personas con trabajadores de oficios.  
-
----
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&lines=if(experience+%3C+maxLevel)+{+LearnMore();+};void+Update()+{+LearnEveryDay();+}" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=FFFF00&center=true&vCenter=true&width=600&lines=if(experience+%3C+maxLevel)+{+LearnMore();+};void+Update()+{+LearnEveryDay();+}" alt="Typing SVG"/>
 </a>
 </p>
+
+
+
+# 🎮 ¡, soy Iván! 🕹️   
+
+**Game Developer | Retomando el desarrollo web | Siempre aprendiendo | Explorando blockchain y Jekyll**  
+
+Apasionado por el desarrollo de videojuegos con **Unity, Godot y Construct3**.  
+Actualmente expandiendo mis conocimientos en **Next.js, Firebase y Jekyll**.  
+
+---
 
 
 
