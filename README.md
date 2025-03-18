@@ -29,32 +29,25 @@
 
 ###  <p align="center"> Proyectos  </p>
 
-#### 🎮 Videojuegos  
-- **Odinn** - RPG en desarrollo con Unity <span style="color:yellow;">*(2025)*</span>  
+####  Videojuegos
+- **Odinn** - RPG en desarrollo con Unity *(2025)*
+  - **Rol:** Programador principal, participación en la idea y diseño de niveles. 
+  
+- **[The Journey of Migas](https://itch.io/jam/dvj-first-jam/rate/2939414)** *(2° lugar en la primera Game Jam realizada por la Universidad Santo Tomás)*  *(2024)*
   - **Rol:** Programador principal, participación en la idea y diseño de niveles.  
 
-- **<a href="https://itch.io/jam/dvj-first-jam/rate/2939414" style="color:yellow;">The Journey of Migas</a>** <span style="color:yellow;">*(2024)*</span> *(2° lugar en la primera Game Jam realizada por la Universidad Santo Tomás)*  
+- **[Shoot the Beat](https://itch.io/jam/dvj-first-jam/rate/3137515)** *(Segunda Game Jam realizada por la Universidad Santo Tomás en colaboración con Movistar Game Club)*  *(2024)*
   - **Rol:** Programador principal, participación en la idea y diseño de niveles.  
 
-- **<a href="https://itch.io/jam/dvj-first-jam/rate/3137515" style="color:yellow;">Shoot the Beat</a>** <span style="color:yellow;">*(2024)*</span> *(Segunda Game Jam realizada por la Universidad Santo Tomás en colaboración con Movistar Game Club)*  
-  - **Rol:** Programador principal, participación en la idea y diseño de niveles.  
+- **[Health Bar Enemy - 7 Days to Die Mod](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/tree/main/BarradeVidaEnemigos%20-%20HealthBarEnemy)** *(Mods & Desarrollo Alternativo)* *(2024)*
+     - **Rol:** Desarrollador principal.  
 
-- **<a href="https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/tree/main/BarradeVidaEnemigos%20-%20HealthBarEnemy" style="color:yellow;">Health Bar Enemy - 7 Days to Die Mod</a>** *(Mods & Desarrollo Alternativo)* <span style="color:yellow;">*(2024)*</span>  
-  - **Rol:** Desarrollador principal.   
-
-### **🤝 Colaboraciones**  
+#### Colaboraciones
 - **Permutis** - Plataforma de intercambio con blockchain de Cardano.  
 - **TecniGo** - Plataforma de conexión con trabajadores.  
 
----
+##
 
-## 📊 GitHub Stats  
-![ivanmy-dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanmy-dev&show_icons=true&theme=radical)  
-![ivanmy-dev Streak](https://streak-stats.demolab.com/?user=ivanmy-dev&theme=radical)  
-
----
-
-## 📫 ¡Contáctame!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/tuusuario)  
+#### Mis Redes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/tuusuario)  
 
