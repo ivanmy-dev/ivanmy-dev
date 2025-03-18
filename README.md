@@ -1,4 +1,4 @@
-# <p align="center"> IvanMY   </p> 
+# <p align="center"> Iván Medrano Yévenes   </p> 
 
 <p align="center">
 <a href="https://git.io/typing-svg">
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godot-engine&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Construct3-%23FF7F50.svg?style=flat&logo=construct3&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Pixel%20Art-%23FFD700.svg?style=flat" height="35"/>
 </p>
 
 
@@ -21,27 +20,27 @@
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Jekyll-%23CC0000.svg?style=flat&logo=jekyll&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Pixel%20Art-%23FFD700.svg?style=flat" height="35"/>
 </p>
 
 
 
----
+##
 
-## 📌 Proyectos Destacados  
-### **🎮 Videojuegos**  
-- 🏆 **The Journey of Migas** *(2° lugar en la Game Jam de la Universidad Santo Tomás)*  
-  - [Jugar en Itch.io](https://itch.io/jam/dvj-first-jam/rate/2939414)  
+###  <p align="center"> Proyectos  </p>
+
+#### 🎮 Videojuegos  
+- **Odinn** - RPG en desarrollo con Unity <span style="color:yellow;">*(2025)*</span>  
   - **Rol:** Programador principal, participación en la idea y diseño de niveles.  
 
-- 🎵 **Shoot the Beat** *(Game Jam de la Universidad Santo Tomás x Movistar Game Club, Mall del Trébol, Talcahuano)*  
-  - [Jugar en Itch.io](https://itch.io/jam/dvj-first-jam/rate/3137515)  
+- **<a href="https://itch.io/jam/dvj-first-jam/rate/2939414" style="color:yellow;">The Journey of Migas</a>** <span style="color:yellow;">*(2024)*</span> *(2° lugar en la primera Game Jam realizada por la Universidad Santo Tomás)*  
   - **Rol:** Programador principal, participación en la idea y diseño de niveles.  
 
-- ⚔️ **Odinn** - RPG en desarrollo con Unity *(En progreso 🚀)*  
+- **<a href="https://itch.io/jam/dvj-first-jam/rate/3137515" style="color:yellow;">Shoot the Beat</a>** <span style="color:yellow;">*(2024)*</span> *(Segunda Game Jam realizada por la Universidad Santo Tomás en colaboración con Movistar Game Club)*  
+  - **Rol:** Programador principal, participación en la idea y diseño de niveles.  
 
-### **🔧 Mods & Desarrollo Alternativo**  
-- 🛠️ **Health Bar Enemy - 7 Days to Die Mod**  
-  - [Repositorio en GitHub](https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/tree/main/BarradeVidaEnemigos%20-%20HealthBarEnemy) *(En proceso de mejorar enlaces de descarga)*  
+- **<a href="https://github.com/ivanmy-dev/7DTD-MODS-IVANMY/tree/main/BarradeVidaEnemigos%20-%20HealthBarEnemy" style="color:yellow;">Health Bar Enemy - 7 Days to Die Mod</a>** *(Mods & Desarrollo Alternativo)* <span style="color:yellow;">*(2024)*</span>  
+  - **Rol:** Desarrollador principal.   
 
 ### **🤝 Colaboraciones**  
 - **Permutis** - Plataforma de intercambio con blockchain de Cardano.  
