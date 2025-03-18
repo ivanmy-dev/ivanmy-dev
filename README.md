@@ -8,12 +8,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat&logo=godot-engine&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Construct3-%23FF7F50.svg?style=flat&logo=construct3&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white" height="35"/> 
 </p>
-
 
 ### <p align="center"> 🚀 *Learning...* </p> 
 <p align="center">
