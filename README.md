@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Imagotipo_IvanMY_blanco.png" width="320" alt="IvànMY Logo"/>
+  <img src="assets/logo_crema.png" width="320" alt="IvànMY Logo"/>
 </p>
 
 $$\color{#dadaa1}{\text{Chilean indie game dev}}$$
