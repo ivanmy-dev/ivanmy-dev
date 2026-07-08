@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Imagotipo_IvanMY_blanco.png" width="320" alt="IvànMY Logo"/>
+  <img src="assets/logo_crema.png" width="300" alt="IvànMY Logo"/>
 </p>
 
-$$\color{#dadaa1}{\text{Chilean indie game dev}}$$
+$$\color{#4B6F44}{\text{-Chilean indie game dev-}}$$
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&typeSpeed=10&pause=1000&color=4B6F44&center=true&vCenter=true&width=800&lines=void+Update()+%7B+BuildTheDream()+%7D%3B" alt="Typing SVG"/>
@@ -26,6 +26,14 @@ $$\color{#dadaa1}{\text{Chilean indie game dev}}$$
   <img src="https://img.shields.io/badge/JavaScript-D19A00?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 </p>
 
+<p align="center">
+  <!-- Tarjeta de Rachas grande -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmy-dev&theme=tokyonight&ring=4B6F44&fire=4B6F44&currStreakNum=4B6F44&sideLabels=a9b1d6&dates=a9b1d6" alt="GitHub Streak" width="500" />
+  <br><br>
+  <!-- Tarjeta de Detalles grande y alineada -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanmy-dev&theme=tokyonight" alt="GitHub Profile Details" width="700" />
+</p>
+
 #
 
 <div align="center">
@@ -40,7 +48,7 @@ $$\color{#dadaa1}{\text{RPG • Metroidvania • Platformer • Unity}}$$
 <br>
 
 <a href="https://ivanmy.itch.io/orinn" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
-
+<a href="https://www.instagram.com/orinn.oficial" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Orinn Instagram" /></a>
 
 🔒 Private Repository
 
@@ -61,6 +69,7 @@ $$\color{#dadaa1}{\text{Rhythm • Arcade • Microgames • Unity}}$$
 <br>
 
 <a href="https://ivanmy.itch.io/" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
+<a href="https://youtu.be/QKDmTh9RlMw?si=qGSV8S3Nww5mV74b" target="_blank"><img src="https://img.shields.io/badge/GAMEPLAY-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Gameplay" /></a>
 
 🔒 Private Repository
 
@@ -98,7 +107,7 @@ $$\color{#dadaa1}{\text{Puzzle • Culture • Microgames • Unity}}$$
 $$\color{#dadaa1}{\text{Action • Minimalist • Shooter • Unity}}$$
 
 **Status:** Concluded
-<br>**Role:** Gameplay & UI Programmer, Game Designer
+<br>**Role:** Gameplay & UI Programmer, Game Designer, UI/UX
 <br>*Developed for Santo Tomás Second Game Jam — Won 2nd Place 🏆*
 
 <br>
@@ -123,35 +132,114 @@ $$\color{#dadaa1}{\text{Action • Minimalist • Shooter • Unity}}$$
 $$\color{#dadaa1}{\text{Platformer • Action • Comedy • Construct 3}}$$
 
 **Status:** Concluded
-<br>**Role:** Lead Programmer, Game Designer
+<br>**Role:** Lead Programmer, Game Designer, UI/UX
 <br>*Developed for Santo Tomás First Game Jam — Won 2nd Place 🏆*
 
 <br>
 
 <a href="https://ivanmy.itch.io/the-journey-of-migas" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
-<a href="https://youtu.be/ZsFWNQhQrVs" target="_blank"><img src="https://img.shields.io/badge/WATCH%20TRAILER-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Trailer" /></a>
+<a href="https://youtu.be/ZsFWNQhQrVs" target="_blank"><img src="https://img.shields.io/badge/TRAILER-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Trailer" /></a>
 
-<br>❌ No Repository Available
+❌ No Repository Available
 
 <br>
 </div>
 
 #
 
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{GENQR}}$$
+$$\color{#dadaa1}{\text{Web Utility • JavaScript • Python}}$$
+
+**Status:** Completed (v2.0)
+<br>**Role:** Solo Developer, Software Architect, UI Designer
+<br>Create custom QR codes with gradients, logos, and animated GIFs. 100% private, secure, and client-side
+
+<br>
+
+<a href="https://ivanmy.itch.io/genqr" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
+<a href="https://youtu.be/wd5aO6crQQI" target="_blank"><img src="https://img.shields.io/badge/HOW%20TO%20USE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="How to Use" /></a>
+
+🔓 Public Repository
+
+<a href="https://github.com/ivanmy-dev/GenQR.git" target="_blank"><img src="https://img.shields.io/badge/VERSION%201.0%20%7C%202.0-181717?style=for-the-badge&logo=github&logoColor=white" alt="v1.0 & v2.0 Repo" /></a>
+
+<br>
+</div>
+
+#
+
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{ENTRELÍNEAS}}$$
+$$\color{#dadaa1}{\text{2D Narrative • Interactive Experience • Unity}}$$
+
+**Status:** Completed (Post-Release Devlog in Progress)
+<br>Personal narrative project with atmospheric visuals and hidden-message mechanics
+<br>**Role:** Solo Developer, Lead Programmer, Game Design, UI/UX, Technical Artist, Project Creator & Concept
+
+<br>
+
+🔒 Private Repository
+
+*Soon to be published on Itch.io alongside an upcoming development log*
+
+<br>
+</div>
+
+#
+
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{GENETRACE}}$$
+$$\color{#dadaa1}{\text{Action • VR • Wave Shooter • Unity}}$$
+
+**Status:** Prototype Concluded
+<br>Developed in Oculus Meta Quest 3S
+<br>**Role:** Solo Developer, Lead Programmer, Game Designer, UI/UX, Project Creator & Concept
+
+<br>
+
+🔓 Public Repository
+
+<a href="https://github.com/ivanmy-dev/Genetrace.git" target="_blank"><img src="https://img.shields.io/badge/VERSION%200.1-181717?style=for-the-badge&logo=github&logoColor=white" alt="v0.1 Repo" /></a>
+
+<br>
+</div>
+
+#
+
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{LIGNUM}}$$
+$$\color{#dadaa1}{\text{Mobile App • Firebase • C++ • Flutter}}$$
+
+**Status:** In Progress (On Hold)
+<br>**Role:** Solo Developer, Lead Programmer, UI Designer
+<br>A personalized mobile application designed for couples, featuring sync mechanics and custom interfaces
+
+<br>
+
+🔒 Private Repository
+
+<br>
+</div>
+
+#
 
 <p align="center">
-  <a href="https://ivanmy.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_/_Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Portfolio"/>
+  <a href="https://ivanmy-dev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-4B6F44?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website"/>
   </a>
-  <a href="https://www.instagram.com/tu_usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://ivanmy.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile"/>
   </a>
-</p>
-
-<p align="center">
-  <!-- Tarjeta de Rachas grande -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmy-dev&theme=tokyonight&ring=4B6F44&fire=4B6F44&currStreakNum=4B6F44&sideLabels=a9b1d6&dates=a9b1d6" alt="GitHub Streak" width="800" />
-  <br><br>
-  <!-- Tarjeta de Detalles grande y alineada -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanmy-dev&theme=tokyonight" alt="GitHub Profile Details" width="800" />
+  <a href="https://www.instagram.com/_ivanmy/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram"/>
+  </a>
 </p>
