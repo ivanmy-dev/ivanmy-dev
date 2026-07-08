@@ -34,13 +34,11 @@ $$\color{#4B6F44}{\text{-Chilean indie game dev-}}$$
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanmy-dev&theme=tokyonight" alt="GitHub Profile Details" width="700" />
 </p>
 
-#
+<br><br>
 
 <p align="center">
-  <img src="assets/PROJECTS.png" width="1000" alt="Projects"/>
+  <img src="assets/PROJECTSS.png" width="1200" alt="Projects"/>
 </p>
-
-#
 
 <div align="center">
 <br>
@@ -236,11 +234,16 @@ $$\color{#dadaa1}{\text{Mobile App • Firebase • C++ • Flutter}}$$
 <br>
 </div>
 
-#
+<br><br>
 
 <p align="center">
+  <img src="assets/CONTACTME.png" width="1200" alt="Contact me"/>
+</p>
+
+<p align="center">
+  <br>
   <a href="https://ivanmy-dev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-4B6F44?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-4B6F44?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
   </a>
   <a href="https://ivanmy.itch.io" target="_blank">
     <img src="https://img.shields.io/badge/ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile"/>
@@ -249,3 +252,4 @@ $$\color{#dadaa1}{\text{Mobile App • Firebase • C++ • Flutter}}$$
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram"/>
   </a>
 </p>
+<br><br>
