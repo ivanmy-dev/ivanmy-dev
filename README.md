@@ -36,6 +36,12 @@ $$\color{#4B6F44}{\text{-Chilean indie game dev-}}$$
 
 #
 
+<p align="center">
+  <img src="assets/PROJECTS.png" width="1000" alt="Projects"/>
+</p>
+
+#
+
 <div align="center">
 <br>
 
