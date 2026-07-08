@@ -31,7 +31,7 @@
 ###  <p align="center"> Proyectos  </p>
 
 ####  Videojuegos
-- **Odinn** - RPG en desarrollo con Unity *(2025)*
+- **Orinn** - RPG en desarrollo con Unity *(2025)*
   - **Rol:** Programador principal, participación en la idea y diseño de niveles. 
   
 - **[The Journey of Migas](https://itch.io/jam/dvj-first-jam/rate/2939414)** *(2° lugar en la primera Game Jam realizada por la Universidad Santo Tomás)*  *(2024)*
