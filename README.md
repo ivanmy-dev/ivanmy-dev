@@ -1,14 +1,14 @@
-
-# <p align="center"><img src="assets/Imagotipo_IvanMY_blanco.png" width="120" alt="IvànMY Logo"/></p>
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=FFFF00&center=true&vCenter=true&width=600&lines=if(isIndieDev)+{+CodeGameplay();+};void+Update()+{+BuildTheDream();+}" alt="Typing SVG"/>
-</a>
+  <img src="assets/Imagotipo_IvanMY_blanco.png" width="320" alt="IvànMY Logo"/>
 </p>
 
 <p align="center">
-  <strong>Chilean indie game dev</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=4b6f44&center=true&vCenter=true&width=800&lines=if(isIndieDev)+%7B+CodeGameplay()+%7D%3B;void+Update()+%7B+BuildTheDream()+%7D%3B" alt="Typing SVG"/>
+  </a>
 </p>
+
+$$\color{#dadaa1}{\text{Chilean indie game dev}}$$
 
 ---
 
@@ -35,34 +35,39 @@
 ### 🚀 Featured Projects & Games
 
 #### 🔹 [Orinn](https://github.com/ivanmy-dev/Orinn) *(RPG / Metroidvania — In Development 🐾)*
-*   **Description:** *[Aquí pegaremos tu descripción en inglés de Itch.io]*
-*   **Role:** Lead Developer & Programmer. Mechanics, collision windows, and state-machine based combat system.
+*   **Description:** An action RPG platformer with a Metroidvania core where you embody a magical cat warrior in a desperate mission to save the kingdom of Lucitania from an ecological collapse caused by corrupted ancient magic. Equipped with a legendary bell-shaped mallet, players explore dynamic biomes, manage stats via a deep skill tree (Melee & Magic), and fight lethal threats.
+*   **Role:** Lead Developer & Programmer. Mechanics, state-machine combat flow, checkpoint systems, and custom time-window action feedback.
 *   **Status:** Private Repository.
 
 #### 🔹 [PixelFest](https://github.com/ivanmy-dev/PixelFest) *(Professional Internship Project — In Development 👾)*
-*   **Description:** *[Aquí pegaremos los detalles en inglés de este proyecto de práctica]*
-*   **Role:** Systems Programmer & Game Designer. Developed as part of academic degree requirements with ongoing core updates.
+*   **Description:** A frantic, casual arcade-style micro-game collection where you play as Kai, the official mascot of a massive gaming convention. Your mission is to spot and halt dynamic digital sabotages triggered by "The Hacker"—a shape-shifting entity whose identity changes each match. Features fast-paced 10-to-30 second reaction mechanics rendered in a clean black-and-white art style.
+*   **Role:** Systems Programmer & Game Designer. Developed as an academic degree milestone in collaboration with NGO Gamer Consedcity.
 *   **Status:** Private Repository.
 
-#### 🔹 [Shoot the Beat (v1.0 & Jam Version)](https://itch.io/jam/dvj-first-jam/rate/3137515) *(Rhythm / Shooter 🎶)*
-*   **Description:** *[Aquí pegaremos tu descripción en inglés de Itch.io]*
-*   **Evolution:** Includes two public releases: the original Jam prototype and **Version 1.0**, featuring deep optimization and gameplay fixes, fully playable via Web.
+#### 🔹 [Shoot the Beat (v1.0 & Jam Version)](https://itch.io/jam/dvj-first-jam/rate/3137515) *(Rhythm / Space Shooter 🎶)*
+*   **Description:** An intense space survival prototype where firing your weapons consumes vital oxygen reserves under strict time pressure. The post-jam Version 1.0 architecture locks manual steering, replacing it with an automated recoil-rotation mechanic where the ship switches direction automatically after a short delay, adding a deep tactical positioning layer.
+*   **Evolution:** Multi-build release including the original 36-hour Game Jam build and an optimized, balanced Version 1.0 playable via Web browser.
 *   **Links:** [Play Web Version on Itch.io](https://itch.io/jam/dvj-first-jam/rate/3137515) | [Source Code v1.0](https://github.com/ivanmy-dev/ShootTheBeatv1.0)
 
+#### 🔹 [32 Segundos](https://github.com/ivanmy-dev/perros-paquetones) *(Arcade / Culture Jam 📺)*
+*   **Description:** An interactive narrative experience packed with 11 distinct micro-games spread across 3 difficulty tiers inspired by Chilean pop culture. Developed for the *Abstract Chile Game Jam 2025*, players navigate a fictional television game show exploring multiple branching endings and narrative outcomes.
+*   **Role:** Core Gameplay & Interface Programmer (Perros Paquetones Games). Integrated full gamepad support and UI layout refinements for the v1.1 update build.
+*   **Status:** Public Repository.
+
 #### 🔹 [The Journey of Migas](https://itch.io/jam/dvj-first-jam/rate/2939414) *(Game Jam Winner 🐱)*
-*   **Description:** *[Aquí pegaremos tu descripción en inglés de Itch.io]*
+*   **Description:** A hardcore precision platformer built within a strict 72-hour window under the theme *Delivery*. Players guide a sentient slice of bread through high-stakes obstacle layouts requiring pinpoint execution, where a single mistake resets all progress back to the starting shelf.
 *   **Achievement:** 🏆 Won 2nd Place at Universidad Santo Tomás' First Game Jam.
 *   **Links:** [Play on Itch.io](https://itch.io/jam/dvj-first-jam/rate/2939414)
 
 #### 🔹 [GenQR — Premium Customizable Utility](https://github.com/ivanmy-dev/GenQR) *(Software / Tool 🛠️)*
-*   **Description:** A private and fully client-side utility focused on advanced, aesthetic QR code customization. Features dynamic looping gradients, custom logos, multi-language support (ES/EN), and clean vector SVG/GIF exports.
-*   **Architecture:** Multi-environment repository centralizing v1.0 (Native Python/PC) and v2.0 (Optimized Web/Itch.io implementation).
+*   **Description:** A private, fully client-side utility focused on high-fidelity, aesthetic QR code generation. Features dynamic linear/radial gradient rendering, seamless central logo insertion with contrast checking, and automated tracking parameter filtering (UTM stripping) entirely client-side.
+*   **Architecture:** Multi-environment repository centralizing the legacy v1.0 build (Native Python/Tkinter) and the updated v2.0 framework (HTML5, CSS3, JavaScript web app).
 *   **Links:** [GitHub Repository](https://github.com/ivanmy-dev/GenQR) | [Try on Itch.io](https://ivanmy.itch.io/)
 
 #### 🔹 [Genetrace](https://github.com/ivanmy-dev/Genetrace) *(VR Roguelite Prototype 🥽)*
-*   **Description:** A 3D Virtual Reality university prototype developed for Meta Oculus Quest 3S. Features wave-based rogue-lite combat driven by a gesture-drawing drawing system to damage enemies.
-*   **Role:** VR Mechanics & Input Programmer.
-*   **Status:** Prototype on hold / Public Repository.
+*   **Description:** An action-driven first-person Virtual Reality rogue-lite prototype designed for Meta Oculus Quest 3S. The gameplay loops center around gesture drawing mechanics[cite: 1], requiring players to accurately trace neon symbols on an arm-mounted holographic grid[cite: 1] to damage and disintegrate incoming mutant enemy waves[cite: 1].
+*   **Role:** VR Input & Core Mechanics Programmer[cite: 1]. Authored the full technical Game Design Document (GDD)[cite: 1].
+*   **Status:** Prototype on hold / Public Repository[cite: 1].
 
 ---
 
@@ -83,4 +88,3 @@ Focused on active game development, gathering player feedback, and sharing knowl
 
 *   **Communities:** Active on Reddit and Itch.io forums for playtesting, feedback loops, and development networking.
 *   **Coming Soon:** Technical devlogs and game showcases on TikTok and Instagram **@IvànMY**.
-
