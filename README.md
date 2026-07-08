@@ -26,36 +26,117 @@ $$\color{#dadaa1}{\text{Chilean indie game dev}}$$
   <img src="https://img.shields.io/badge/JavaScript-D19A00?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 </p>
 
----
+#
 
-### <p align="center">Projects</p>
+<div align="center">
+<br>
 
-🔹 **Orinn** *(RPG / Metroidvania — In Development)*
-* **Description:** An action RPG platformer with a Metroidvania core where you embody a magical cat warrior in a desperate mission to save the kingdom of Lucitania from an ecological collapse caused by corrupted ancient magic. Equipped with a legendary bell-shaped mallet, players explore dynamic biomes, manage stats via a deep skill tree (Melee & Magic), and fight lethal threats.
-* **Role:** Lead Developer & Programmer. Mechanics, state-machine combat flow, checkpoint systems, and custom time-window action feedback.
-* **Status:** Private Repository.
+### $$\color{#4B6F44}{\text{ORINN}}$$
+$$\color{#dadaa1}{\text{RPG • Metroidvania • Platformer • Unity}}$$
 
-🔹 **PixelFest** *(Professional Internship Project — In Development)*
-* **Description:** A frantic, casual arcade-style micro-game collection where you play as Kai, the official mascot of a massive gaming convention. Your mission is to spot and halt dynamic digital sabotages triggered by "The Hacker"—a shape-shifting entity whose identity changes each match. Features fast-paced 10-to-30 second reaction mechanics rendered in a clean black-and-white art style.
-* **Role:** Systems Programmer & Game Designer. Developed as an academic degree milestone in collaboration with NGO Gamer Consedcity.
-* **Status:** Private Repository.
+**Status:** In development
+<br>**Role:** Solo Developer, Lead Programmer, Game Design, UI/UX, Project Creator & Concept
 
-🔹 **Shoot the Beat (v1.0 & Jam Version)** *(Rhythm / Space Shooter)*
-* **Description:** An intense space survival prototype where firing your weapons consumes vital oxygen reserves under strict time pressure. The post-jam Version 1.0 architecture locks manual steering, replacing it with an automated recoil-rotation mechanic where the ship switches direction automatically after a short delay, adding a deep tactical positioning layer.
-* **Evolution:** Multi-build release including the original 36-hour Game Jam build and an optimized, balanced Version 1.0 playable via Web browser.
-* **Achievements:** 🏆 Won 2nd Place at Universidad Santo Tomás' Second Game Jam.
-* **Links:** [Play Web Version on Itch.io](https://ivanmy.itch.io/) | Source Code v1.0
+<br>
 
-🔹 **32 Segundos** *(Arcade / Culture Jam 📺)*
-* **Description:** An interactive narrative experience packed with 11 distinct micro-games spread across 3 difficulty tiers inspired by Chilean pop culture. Developed for the *Abstract Chile Game Jam 2025*, players navigate a fictional television game show exploring multiple branching endings and narrative outcomes.
-* **Role:** Core Gameplay & Interface Programmer (Perros Paquetones Games). Integrated full gamepad support and UI layout refinements for the v1.1 update build.
-* **Status:** Public Repository.
+<a href="https://ivanmy.itch.io/orinn" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
 
-🔹 **The Journey of Migas** *(Game Jam Winner)*
-* **Description:** A hardcore precision platformer built within a strict 72-hour window under the theme *Delivery*. Players guide a sentient slice of bread through high-stakes obstacle layouts requiring pinpoint execution, where a single mistake resets all progress back to the starting shelf.
-* **Achievements:** 🏆 Won 2nd Place at Universidad Santo Tomás' First Game Jam.
 
----
+🔒 Private Repository
+
+<br>
+</div>
+
+#
+
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{PIXELFEST}}$$
+$$\color{#dadaa1}{\text{Rhythm • Arcade • Microgames • Unity}}$$
+
+**Status:** In development
+<br>**Role:** Solo Developer, Lead Programmer, Game Design, UI/UX, Technical Artist, Project Creator & Concept
+
+<br>
+
+<a href="https://ivanmy.itch.io/" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
+
+🔒 Private Repository
+
+<br>
+</div>
+
+#
+
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{32 SEGUNDOS}}$$
+$$\color{#dadaa1}{\text{Puzzle • Culture • Microgames • Unity}}$$
+
+**Status:** In development
+<br>**Role:** Gameplay & UI Programmer
+<br>*Developed for Abstract Chile Game Jam 2025 — Ranked #7 Overall (Top 2# Presentation & Theme)*
+
+<br>
+
+<a href="https://ikodesu.itch.io/32-segundos" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
+<a href="https://itch.io/jam/abstract-chile-game-jam/rate/3866480" target="_blank"><img src="https://img.shields.io/badge/JAM%20SUBMISSION-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Jam Submission" /></a>
+
+🔒 Private Repository
+
+<br>
+</div>
+
+#
+
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{SHOOT THE BEAT}}$$
+$$\color{#dadaa1}{\text{Action • Minimalist • Shooter • Unity}}$$
+
+**Status:** Concluded
+<br>**Role:** Gameplay & UI Programmer, Game Designer
+<br>*Developed for Santo Tomás Second Game Jam — Won 2nd Place 🏆*
+
+<br>
+
+<a href="https://ivanmy.itch.io/shoot-the-beat" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
+
+🔓 Public Repository
+
+<a href="https://github.com/ivanmy-dev/ShootTheBeatv1.0.git" target="_blank"><img src="https://img.shields.io/badge/VERSION%201.0-181717?style=for-the-badge&logo=github&logoColor=white" alt="v1.0 Repo" /></a>
+<a href="https://github.com/ivanmy-dev/ShootTheBeat_JamVersion-ScapeSpace-.git" target="_blank"><img src="https://img.shields.io/badge/VERSION%200.1%20JAM-181717?style=for-the-badge&logo=github&logoColor=white" alt="Jam Repo" /></a>
+
+
+<br>
+</div>
+
+#
+
+<div align="center">
+<br>
+
+### $$\color{#4B6F44}{\text{THE JOURNEY OF MIGAS}}$$
+$$\color{#dadaa1}{\text{Platformer • Action • Comedy • Construct 3}}$$
+
+**Status:** Concluded
+<br>**Role:** Lead Programmer, Game Designer
+<br>*Developed for Santo Tomás First Game Jam — Won 2nd Place 🏆*
+
+<br>
+
+<a href="https://ivanmy.itch.io/the-journey-of-migas" target="_blank"><img src="https://img.shields.io/badge/PLAY%20ON%20ITCH.IO-FF5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io" /></a>
+<a href="https://youtu.be/ZsFWNQhQrVs" target="_blank"><img src="https://img.shields.io/badge/WATCH%20TRAILER-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Trailer" /></a>
+
+<br>❌ No Repository Available
+
+<br>
+</div>
+
+#
 
 
 <p align="center">
@@ -65,4 +146,12 @@ $$\color{#dadaa1}{\text{Chilean indie game dev}}$$
   <a href="https://www.instagram.com/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
+<p align="center">
+  <!-- Tarjeta de Rachas grande -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmy-dev&theme=tokyonight&ring=4B6F44&fire=4B6F44&currStreakNum=4B6F44&sideLabels=a9b1d6&dates=a9b1d6" alt="GitHub Streak" width="800" />
+  <br><br>
+  <!-- Tarjeta de Detalles grande y alineada -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanmy-dev&theme=tokyonight" alt="GitHub Profile Details" width="800" />
 </p>
